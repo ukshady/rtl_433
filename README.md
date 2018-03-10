@@ -178,6 +178,7 @@ Supported device protocols:
     [91]  Infactory
     [92]  Ft004b	
     [93]  Ford car remote
+    [94]  Salus RT505TX Thermostat
 
 * Disabled by default, use -R n or -G
 
